@@ -2,7 +2,7 @@
 from flask import Flask
 from flask_restful import Api, Resource, reqparse
 import random
-a = 11
+a = 12
 app = Flask(__name__)
 api = Api(app)
 ai_quotes = [
